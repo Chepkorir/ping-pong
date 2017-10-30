@@ -1,0 +1,15 @@
+Ping pong
+This is a project where a user inputs a number and then receives a range of numbers within a given chain while considering the following exceptions;
+1. Numbers divisible by 3 are replaced with "ping"
+2. Numbers divisible by 5 are replaced with "pong"
+3. Numbers divisible by 15 are replaced with "pingpong"
+
+  Specifications
+
+
+
+
+  Technologies used
+  html
+  css
+  javascript and jquery
