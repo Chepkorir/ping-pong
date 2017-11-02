@@ -1,6 +1,6 @@
 # {Ping-pong}
 
-#### this is a game designed using javascript css and html, 2017
+### this is a game designed using javascript css and html, 2017
 
 #### By Sharon Kirui
 
