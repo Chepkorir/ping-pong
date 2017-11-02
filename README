@@ -1,10 +1,13 @@
-Ping pong
-This is a project where a user inputs a number and then receives a range of numbers within a given chain while considering the following exceptions;
+# Ping pong
+
+#### this is a game designed using javascript css and html
+
+## This is a project where a user inputs a number and then receives a range of numbers within a given chain while considering the following exceptions;
 1. Numbers divisible by 3 are replaced with "ping"
 2. Numbers divisible by 5 are replaced with "pong"
 3. Numbers divisible by 15 are replaced with "pingpong"
 
-  Specifications
+  ##Specifications
 
 
 
@@ -14,7 +17,14 @@ This is a project where a user inputs a number and then receives a range of numb
 
 
 
-  Technologies used
+##  Technologies used
+
   html
-  css
-  javascript and jquery
+  CSS
+  Java script and jquery
+
+  ##support and contact details
+
+  If you have any questions ,comments or issues feel free to reach out to me through my email chepkokirui@gmail.com
+
+copyright (c) 2017 **sharonkirui
